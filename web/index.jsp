@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>菜菜是世界上最美的女孩</title>
+    <title>菜菜是世界上最美的女孩 没有之一哦</title>
   </head>
   <body>
   纪超是世界上最帅的男孩

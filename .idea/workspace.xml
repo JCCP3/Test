@@ -31,6 +31,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34662044">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ResBaseMessage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zysq/entity/responseEntity/ResBaseMessage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoreService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CoreService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zysq/service/CoreService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4851485">
-              <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,25 +126,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResNewsMessage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zysq/entity/responseEntity/ResNewsMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -214,7 +205,6 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/com/zysq/util/CheckUtil.java" />
         <option value="$PROJECT_DIR$/src/com/zysq/entity/responseEntity/BaseMessage.java" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/com/zysq/util/MessageUtil.java" />
         <option value="$PROJECT_DIR$/src/com/zysq/controller/Servlet.java" />
         <option value="$PROJECT_DIR$/src/com/zysq/entity/BaseMessage.java" />
@@ -230,6 +220,7 @@
         <option value="$PROJECT_DIR$/src/com/zysq/entity/LocationMessage.java" />
         <option value="$PROJECT_DIR$/src/com/zysq/entity/responseEntity/ResBaseMessage.java" />
         <option value="$PROJECT_DIR$/src/com/zysq/service/CoreService.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -1153,12 +1144,12 @@
       <workItem from="1458225882678" duration="3589000" />
       <workItem from="1458375918795" duration="12819000" />
       <workItem from="1458397336312" duration="6150000" />
-      <workItem from="1458564959917" duration="8413000" />
+      <workItem from="1458564959917" duration="9018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35502000" />
+    <option name="totallyTimeSpent" value="36107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="24" width="1400" height="864" extended-state="0" />
@@ -1351,14 +1342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6862745">
           <caret line="200" column="5" selection-start-line="200" selection-start-column="5" selection-end-line="200" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1598,11 +1581,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zysq/service/CoreService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4851485">
-          <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34662044">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
